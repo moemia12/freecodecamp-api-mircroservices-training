@@ -11,6 +11,9 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Mohsin Miah"
+	"author": "Mohsin Miah",
+	"description": "Mohsin Miah'snode package",
+	"keywords" :["My", "Name", "Is", "Mohsin", "freecodecamp"],
+	"license": "MIT",
+	"version": "~1.2.0"
 }
-
